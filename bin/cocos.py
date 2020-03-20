@@ -32,7 +32,7 @@ import re
 # FIXME: MultiLanguage should be deprecated in favor of gettext
 from MultiLanguage import MultiLanguage
 
-COCOS2D_CONSOLE_VERSION = '2.3'
+COCOS2D_CONSOLE_VERSION = '2.3-hc'
 
 
 class Cocos2dIniParser:
